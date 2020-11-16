@@ -6,7 +6,7 @@ CIN_candidat integer constraint
 pk_candidats PRIMARY KEY, 
 NomCandidat varchar(15),
 PrenomCandidat varchar(15), 
-DateN date, 
+Datex date, 
 Niveau varchar(15), 
 Nationnalite varchar(15)
 );
